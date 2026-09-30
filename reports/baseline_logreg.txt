@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.8423,
+  "balanced_accuracy": 0.8163,
+  "precision": 0.5786,
+  "recall": 0.7731,
+  "f1": 0.6619,
+  "roc_auc": 0.9074,
+  "pr_auc": 0.7866,
+  "brier": 0.1133
+}
+
+              precision    recall  f1-score   support
+
+      Repaid       0.94      0.86      0.90       954
+     Default       0.58      0.77      0.66       238
+
+    accuracy                           0.84      1192
+   macro avg       0.76      0.82      0.78      1192
+weighted avg       0.87      0.84      0.85      1192
+
+Confusion matrix [[TN, FP], [FN, TP]]:
+[[820 134]
+ [ 54 184]]

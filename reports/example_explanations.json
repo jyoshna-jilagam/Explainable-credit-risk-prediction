@@ -1,0 +1,146 @@
+{
+  "caught_default": {
+    "probability": 0.9998,
+    "risk": "High Risk",
+    "increase": [
+      {
+        "factor": "Total delinquencies and derogatory reports",
+        "value": "7",
+        "impact": 3.517
+      },
+      {
+        "factor": "Property value not reported",
+        "value": "yes",
+        "impact": 3.396
+      },
+      {
+        "factor": "Delinquent credit lines",
+        "value": "5",
+        "impact": 1.532
+      },
+      {
+        "factor": "Debt-to-income not reported",
+        "value": "yes",
+        "impact": 0.773
+      }
+    ],
+    "decrease": [
+      {
+        "factor": "Inquiries per credit line",
+        "value": "0.06",
+        "impact": -0.168
+      },
+      {
+        "factor": "Total debt against property value",
+        "value": "not available",
+        "impact": -0.103
+      },
+      {
+        "factor": "Recent credit inquiries",
+        "value": "1",
+        "impact": -0.054
+      },
+      {
+        "factor": "Job: Sales",
+        "value": "yes",
+        "impact": -0.034
+      }
+    ]
+  },
+  "missed_default": {
+    "probability": 0.0059,
+    "risk": "Low Risk",
+    "increase": [
+      {
+        "factor": "Job: Office",
+        "value": "yes",
+        "impact": 0.148
+      },
+      {
+        "factor": "Derogatory reports not reported",
+        "value": "no",
+        "impact": 0.116
+      },
+      {
+        "factor": "Loan reason: HomeImp",
+        "value": "yes",
+        "impact": 0.042
+      },
+      {
+        "factor": "Job: Missing",
+        "value": "yes",
+        "impact": 0.033
+      }
+    ],
+    "decrease": [
+      {
+        "factor": "Age of oldest credit line (months)",
+        "value": "328.51",
+        "impact": -1.402
+      },
+      {
+        "factor": "Debt-to-income ratio",
+        "value": "40.05",
+        "impact": -1.058
+      },
+      {
+        "factor": "Debt-to-income not reported",
+        "value": "no",
+        "impact": -0.957
+      },
+      {
+        "factor": "Total delinquencies and derogatory reports",
+        "value": "0",
+        "impact": -0.722
+      }
+    ]
+  },
+  "safe_applicant": {
+    "probability": 0.0005,
+    "risk": "Low Risk",
+    "increase": [
+      {
+        "factor": "Inquiries not reported",
+        "value": "yes",
+        "impact": 0.089
+      },
+      {
+        "factor": "Job: Missing",
+        "value": "yes",
+        "impact": 0.048
+      },
+      {
+        "factor": "Loan reason: HomeImp",
+        "value": "yes",
+        "impact": 0.019
+      },
+      {
+        "factor": "Loan reason: Missing",
+        "value": "yes",
+        "impact": 0.012
+      }
+    ],
+    "decrease": [
+      {
+        "factor": "Derogatory reports not reported",
+        "value": "yes",
+        "impact": -2.218
+      },
+      {
+        "factor": "Job: Office",
+        "value": "yes",
+        "impact": -1.312
+      },
+      {
+        "factor": "Debt-to-income not reported",
+        "value": "no",
+        "impact": -0.817
+      },
+      {
+        "factor": "Age of oldest credit line (months)",
+        "value": "178.57",
+        "impact": -0.809
+      }
+    ]
+  }
+}

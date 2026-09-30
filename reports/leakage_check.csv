@@ -1,0 +1,11 @@
+,pipeline_median,train_only_median,train_plus_test_median,uses_train_only
+LOAN,16200.0,16200.0,16300.0,True
+MORTDUE,65022.0,65022.0,65019.0,True
+VALUE,89250.0,89250.0,89235.5,True
+YOJ,7.0,7.0,7.0,True
+DEROG,0.0,0.0,0.0,True
+DELINQ,0.0,0.0,0.0,True
+CLAGE,173.495,173.495,173.467,True
+NINQ,1.0,1.0,1.0,True
+CLNO,20.0,20.0,20.0,True
+DEBTINC,34.802,34.802,34.818,True

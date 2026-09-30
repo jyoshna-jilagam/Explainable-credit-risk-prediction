@@ -1,0 +1,5 @@
+model,cv_pr_auc,best_params,test_accuracy,test_balanced_accuracy,test_precision,test_recall,test_f1,test_roc_auc,test_pr_auc,test_brier
+Logistic Regression,0.7914,"{""C"": 1}",0.8423,0.8163,0.5786,0.7731,0.6619,0.9074,0.7866,0.1133
+Random Forest,0.8404,"{""n_estimators"": 200, ""min_samples_leaf"": 1, ""max_features"": ""sqrt"", ""max_depth"": 12}",0.8943,0.8094,0.7718,0.6681,0.7162,0.9501,0.8325,0.0719
+Gradient Boosting,0.8915,"{""subsample"": 0.8, ""n_estimators"": 300, ""min_samples_leaf"": 5, ""max_depth"": 5, ""learning_rate"": 0.05}",0.906,0.8089,0.8462,0.6471,0.7333,0.9554,0.8781,0.0641
+XGBoost,0.9026,"{""subsample"": 1.0, ""n_estimators"": 300, ""min_child_weight"": 1, ""max_depth"": 7, ""learning_rate"": 0.1, ""colsample_bytree"": 0.7}",0.9203,0.8477,0.8522,0.7269,0.7846,0.9567,0.893,0.0586

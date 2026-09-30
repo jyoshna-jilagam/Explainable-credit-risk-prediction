@@ -1,0 +1,4 @@
+method,cv_brier,cv_log_loss,test_brier,test_log_loss
+raw,0.0552,0.1958,0.0586,0.2074
+sigmoid,0.0532,0.1821,0.0567,0.1935
+isotonic,0.0534,0.1864,0.0556,0.1901

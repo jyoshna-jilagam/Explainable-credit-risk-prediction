@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+      Repaid       0.97      0.90      0.93       954
+     Default       0.69      0.89      0.78       238
+
+    accuracy                           0.90      1192
+   macro avg       0.83      0.90      0.86      1192
+weighted avg       0.91      0.90      0.90      1192
+
+Confusion matrix [[TN, FP], [FN, TP]]:
+[[857  97]
+ [ 25 213]]

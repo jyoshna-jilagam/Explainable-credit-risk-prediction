@@ -1,0 +1,36 @@
+index,mean_abs_shap
+Debt-to-income not reported,1.1017
+Age of oldest credit line (months),0.8099
+Total delinquencies and derogatory reports,0.7645
+Debt-to-income ratio,0.7448
+Property value,0.3838
+Loan amount,0.3716
+Mortgage still owed,0.3613
+Years at current job,0.348
+Home equity,0.3376
+Job: Office,0.3261
+Number of credit lines,0.3214
+Delinquent credit lines,0.3072
+Derogatory reports not reported,0.2785
+Mortgage-to-value ratio,0.2428
+Inquiries per credit line,0.2272
+Total debt against property value,0.2154
+Loan-to-value ratio,0.2021
+Property value not reported,0.1588
+Job: Other,0.1505
+Job: Missing,0.1425
+Recent credit inquiries,0.1355
+Has any negative credit mark,0.09
+Credit age not reported,0.0805
+Derogatory reports,0.0726
+Credit line count not reported,0.0709
+Job: Sales,0.0635
+Loan reason: HomeImp,0.0401
+Job: ProfExe,0.0396
+Loan reason: DebtCon,0.038
+Job: Mgr,0.022
+Years at job not reported,0.0189
+Loan reason: Missing,0.0159
+Delinquencies not reported,0.0131
+Inquiries not reported,0.0108
+Job: Self,0.003

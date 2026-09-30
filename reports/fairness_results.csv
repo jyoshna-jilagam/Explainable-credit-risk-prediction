@@ -1,0 +1,13 @@
+column,group,n,actual_default_rate,flagged_high_risk_rate,recall,false_positive_rate,small_group
+JOB,Mgr,161,0.248,0.28,0.875,0.083,False
+JOB,Missing,49,0.122,0.082,0.667,0.0,True
+JOB,Office,201,0.159,0.219,0.906,0.089,False
+JOB,Other,451,0.213,0.31,0.938,0.141,False
+JOB,ProfExe,270,0.167,0.207,0.867,0.076,False
+JOB,Sales,17,0.294,0.235,0.4,0.167,True
+JOB,Self,43,0.326,0.395,1.0,0.103,True
+REASON,DebtCon,800,0.189,0.24,0.861,0.096,False
+REASON,HomeImp,335,0.221,0.313,0.986,0.123,False
+REASON,Missing,57,0.228,0.228,0.769,0.068,False
+DEBTINC_REPORTED,Missing,262,0.626,0.832,0.939,0.653,False
+DEBTINC_REPORTED,Reported,930,0.08,0.099,0.797,0.039,False
